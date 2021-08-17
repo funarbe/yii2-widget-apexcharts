@@ -5,7 +5,7 @@
  * @package yii2-widget-apexcharts
  */
 
-namespace mandachuvamg\apexcharts;
+namespace funarbe\apexcharts;
 
 use yii\base\InvalidConfigException;
 use yii\base\Widget;
